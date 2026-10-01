@@ -21,8 +21,12 @@ $ErrorActionPreference = 'Stop'
 
 $ScriptDir    = Split-Path -Parent $MyInvocation.MyCommand.Path
 $CommandsDir  = Join-Path (Split-Path -Parent $ScriptDir) 'commands'
-$ClaudeDir    = Join-Path $HOME '.claude\commands'
-$CodexDir     = Join-Path $HOME '.codex\skills'
+# 安装根目录：默认用 $HOME（PowerShell 自动变量 = 用户主目录）。
+# 若环境变量 HOME 被显式设置且指向已存在的目录（如 CI 用临时目录做隔离测试），则优先用它。
+$HomeDir = $HOME
+if ($env:HOME -and (Test-Path $env:HOME)) { $HomeDir = $env:HOME }
+$ClaudeDir    = Join-Path $HomeDir '.claude\commands'
+$CodexDir     = Join-Path $HomeDir '.codex\skills'
 
 $InstallClaude = -not $CodexOnly
 $InstallCodex  = -not $ClaudeOnly

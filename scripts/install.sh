@@ -91,6 +91,7 @@ fi
 # ---- 验证 ----
 echo "---- 验证 ----"
 ok=1
+got=0  # 预初始化：set -u 下老版本 bash（如 macOS 自带 bash 3.2）对命令替换赋值的处理有怪癖，先占位避免 unbound variable 误报
 
 if [ "$INSTALL_CLAUDE" -eq 1 ]; then
   got=$(find "$CLAUDE_DIR" -maxdepth 1 -name '*.md' | wc -l)
