@@ -31,7 +31,7 @@ for arg in "$@"; do
       sed -n '2,12p' "$0"
       exit 0
       ;;
-    *) echo "未知参数: $arg（用 --help 查看用法）" >&2; exit 1 ;;
+    *) echo "未知参数: ${arg}（用 --help 查看用法）" >&2; exit 1 ;;
   esac
 done
 
@@ -91,17 +91,17 @@ fi
 # ---- 验证 ----
 echo "---- 验证 ----"
 ok=1
-got=0  # 预初始化：set -u 下老版本 bash（如 macOS 自带 bash 3.2）对命令替换赋值的处理有怪癖，先占位避免 unbound variable 误报
+got=0  # 防御性初始化（配合 set -u）
 
 if [ "$INSTALL_CLAUDE" -eq 1 ]; then
   got=$(find "$CLAUDE_DIR" -maxdepth 1 -name '*.md' | wc -l)
-  echo "Claude Code 目录文件数：$got（期望 ${#SRC_FILES[@]}）"
+  echo "Claude Code 目录文件数：${got}（期望 ${#SRC_FILES[@]}）"
   [ "$got" -ge "${#SRC_FILES[@]}" ] || ok=0
 fi
 
 if [ "$INSTALL_CODEX" -eq 1 ]; then
   got=$(find "$CODEX_DIR" -maxdepth 2 -name 'SKILL.md' | wc -l)
-  echo "Codex skills 目录 SKILL.md 数：$got（期望 ${#SRC_FILES[@]}）"
+  echo "Codex skills 目录 SKILL.md 数：${got}（期望 ${#SRC_FILES[@]}）"
   [ "$got" -ge "${#SRC_FILES[@]}" ] || ok=0
   # 抽查一个转换结果：frontmatter 不应再有 cli: 行
   sample="$CODEX_DIR/review/SKILL.md"
@@ -110,7 +110,7 @@ if [ "$INSTALL_CODEX" -eq 1 ]; then
       echo "警告：$sample 仍含有 cli: 行，转换可能未生效。" >&2
       ok=0
     else
-      echo "抽查 $sample：frontmatter 已去掉 cli: 行 ✓"
+      echo "抽查 ${sample}：frontmatter 已去掉 cli: 行 ✓"
     fi
   fi
 fi
@@ -122,7 +122,7 @@ for cand in "$HOME/.local/bin/codex" "$(command -v codex 2>/dev/null || true)"; 
 done
 if [ -n "$CODEX_BIN" ]; then
   ver="$("$CODEX_BIN" --version 2>/dev/null || echo "未知")"
-  echo "检测到 codex：$CODEX_BIN（$ver）"
+  echo "检测到 codex：${CODEX_BIN}（${ver}）"
   case "$ver" in
     *"0.149"*) echo "警告：这是旧版 codex（0.149.x），已知会静默失败，请升级到 0.159+（官方最新版）。" >&2 ;;
   esac
