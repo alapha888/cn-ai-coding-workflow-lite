@@ -82,6 +82,11 @@ Lite 版的 3 个命令之外，完整版还有：
 
 不想自己摸索的，可以走诊断：把你现在的 Claude Code / Codex 配置与工作流提交过来，逐项检查后给一份书面诊断报告——问题清单、优先级排序、每项的具体改法。¥99 一次，下单后走爱发电私信沟通：[AI 编程工作流诊断](https://afdian.com/item/bfc88e58bdad11f19b095254001e7c00)
 
+## 正在验证的新想法（尚未开发）
+
+- **MDClip Pro**：网页转 Markdown 工具，意向价 ¥15/月（尚未开发、不收款）。候补登记：https://alapha888.github.io/mdclip-waitlist/ ——2026-10-31 前登记满 30 人才立项开发。
+- **SyncMatrix**：面向矩阵/团队运营者的多账号发布管理，意向价 ¥39/月（尚未开发、不收款）。候补登记：https://alapha888.github.io/syncmatrix-waitlist/ ——2026-10-31 前登记满 20 人才立项开发。
+
 ## 反馈
 
 问题、建议走 [GitHub Issues](https://github.com/alapha888/cn-ai-coding-workflow-lite/issues)。不公开邮箱。
