@@ -89,6 +89,10 @@ Lite 版的 3 个命令之外，完整版还有：
 
 问题、建议走 [GitHub Issues](https://github.com/alapha888/cn-ai-coding-workflow-lite/issues)。不公开邮箱。
 
+## 更多同作者作品
+
+- 免费工具、付费版与候补项目的完整索引：https://gist.github.com/alapha888/fe51434e80dbc0ef5610aeab38b025f4
+
 ---
 
 *MIT License · 3 commands / 双 CLI 实测通过 · 完整版 ¥9.90 起*
