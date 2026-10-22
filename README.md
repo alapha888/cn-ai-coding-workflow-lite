@@ -91,6 +91,8 @@ Lite 版的 3 个命令之外，完整版还有：
 
 ## 作者其他作品
 
+- **RunnerDriftAudit**：免费 CLI，扫描 GitHub Actions 工作流的 runner 标签与工具漂移（ubuntu-latest 26.04 迁移前自查）；Pro 版（$29 一次性）一次扫描整个本地工作区。https://github.com/alapha888/runner-drift-audit
+- **PubAudit**：免费 CLI，批量把 Microsoft Publisher（.pub）文件转 PDF 并逐个校验输出（OK / REVIEW / FAILED）。https://github.com/alapha888/pubaudit
 - 免费工具、付费版本与预约中项目索引：https://gist.github.com/alapha888/fe51434e80dbc0ef5610aeab38b025f4
 
 ---
