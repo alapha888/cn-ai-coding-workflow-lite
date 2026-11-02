@@ -96,6 +96,11 @@ Lite 版的 3 个命令之外，完整版还有：
 - 买前先看：完整版 10 个常见问题：https://gist.github.com/alapha888/2d44005bad9e2f15e022cf6098c6a9e8
 - Lite 够用，还是值得升级完整版？一张对照表帮你决定：https://gist.github.com/alapha888/306cd6c7421919b3d8b5d3126697d0a3
 
+dev.to 文章（同一内容，平台版，非新实测）：
+
+- 让 AI 编程助手少返工：10 条命令规则合集（免费读）：https://dev.to/alapha888/rang-ai-bian-cheng-zhu-shou-shao-fan-gong-10-tiao-ming-ling-gui-ze-he-ji-mian-fei-du--7ae
+- 改一段代码，用 /test /review /commit 走一遍：一个可复现的收尾链路：https://dev.to/alapha888/gai-duan-dai-ma-yong-test-review-commit-zou-bian-ge-ke-fu-xian-de-shou-wei-lian-lu-47h0
+
 ## 反馈
 
 问题、建议走 [GitHub Issues](https://github.com/alapha888/cn-ai-coding-workflow-lite/issues)。不公开邮箱。
