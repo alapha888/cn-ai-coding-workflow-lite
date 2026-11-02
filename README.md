@@ -85,6 +85,17 @@ Lite 版的 3 个命令之外，完整版还有：
 - **MDClip Pro**：网页转 Markdown 工具，意向价 ¥15/月（尚未开发、不收款）。候补登记：https://alapha888.github.io/mdclip-waitlist/ ——2026-10-31 前登记满 30 人才立项开发。
 - **SyncMatrix**：面向矩阵/团队运营者的多账号发布管理，意向价 ¥39/月（尚未开发、不收款）。候补登记：https://alapha888.github.io/syncmatrix-waitlist/ ——2026-10-31 前登记满 20 人才立项开发。
 
+## 配套短文合集（免费读）
+
+以下短文均整理自本仓命令实测文本或完整版 README FAQ，非新实测；按需单篇读，不必全读：
+
+- 10 个命令的 5 条硬规则合集索引：https://gist.github.com/alapha888/2c08ee55c283b2f0f76ce0dc0783aaba
+- Lite 版 3 分钟上手：[/review 篇](https://gist.github.com/alapha888/202b319cfef310c6a0fb001fc4a93247)、[/commit 篇](https://gist.github.com/alapha888/28901c6a146259f9a0b592296ac9d3a0)、[/test 篇](https://gist.github.com/alapha888/500fa30d3100a56659bfa40d2f965128)
+- Lite 3 命令串联：改代码 → /test → /review → /commit，一次走完：https://gist.github.com/alapha888/6b511341f86b5d90b825069037791f3c
+- Lite 免费版与完整版对照：https://gist.github.com/alapha888/87ec2f22399fd1995de218c2ed9e8964
+- 买前先看：完整版 10 个常见问题：https://gist.github.com/alapha888/2d44005bad9e2f15e022cf6098c6a9e8
+- Lite 够用，还是值得升级完整版？一张对照表帮你决定：https://gist.github.com/alapha888/306cd6c7421919b3d8b5d3126697d0a3
+
 ## 反馈
 
 问题、建议走 [GitHub Issues](https://github.com/alapha888/cn-ai-coding-workflow-lite/issues)。不公开邮箱。
