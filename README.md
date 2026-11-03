@@ -105,6 +105,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 只装 3 条命令：Lite 版安装取舍与验证清单：https://dev.to/alapha888/zhi-zhuang-3-tiao-ming-ling-lite-ban-an-zhuang-qu-she-yu-yan-zheng-qing-dan-34k4
 - 让 reviewer 3 分钟看懂你的 PR：/pr 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/rang-reviewer-3-fen-zhong-kan-dong-ni-de-prpr-de-5-tiao-ying-gui-ze-iol
 - 报错先别猜：/debug 的 5 步排错法（完整版命令，平台版）：https://dev.to/alapha888/bao-cuo-xian-bie-cai-debug-de-5-bu-pai-cuo-fa-46b4
+- 函数超过 50 行自己都不想读了：/refactor 的 5 步安全重构（完整版命令，平台版）：https://dev.to/alapha888/han-shu-chao-guo-50-xing-zi-ji-du-bu-xiang-du-liao-refactor-de-5-bu-an-quan-zhong-gou-294a
 
 ## 反馈
 
