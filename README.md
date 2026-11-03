@@ -110,6 +110,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 需求一来就开写，写到一半才发现想错了：/plan 的 5 步拆解法（完整版命令，平台版）：https://dev.to/alapha888/xu-qiu-lai-jiu-kai-xie-xie-dao-ban-cai-fa-xian-xiang-cuo-liao-plan-de-5-bu-chai-jie-fa-4knh
 - 接手一个陌生项目，先别从第一行读起：/onboard 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/jie-shou-ge-mo-sheng-xiang-mu-xian-bie-cong-di-xing-du-qi-onboard-de-5-tiao-ying-gui-ze-501h
 - 发版前先别急着打 tag：/release 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/fa-ban-qian-xian-bie-ji-zhao-da-tagrelease-de-5-tiao-ying-gui-ze-43ih
+- CLAUDE.md 别从空白写起：三套模板按项目类型选（完整版模板，平台版）：https://dev.to/alapha888/claudemd-bie-cong-kong-bai-xie-qi-san-tao-mo-ban-an-xiang-mu-lei-xing-xuan-586o
 
 ## 反馈
 
