@@ -109,6 +109,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 文档写完没人能跑起来，等于没写：/doc 的注释三原则与 README 五件套（完整版命令，平台版）：https://dev.to/alapha888/wen-dang-xie-wan-mei-ren-neng-pao-qi-lai-deng-yu-mei-xie-doc-de-zhu-shi-san-yuan-ze-yu-readme-wu-jian-tao-i5m
 - 需求一来就开写，写到一半才发现想错了：/plan 的 5 步拆解法（完整版命令，平台版）：https://dev.to/alapha888/xu-qiu-lai-jiu-kai-xie-xie-dao-ban-cai-fa-xian-xiang-cuo-liao-plan-de-5-bu-chai-jie-fa-4knh
 - 接手一个陌生项目，先别从第一行读起：/onboard 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/jie-shou-ge-mo-sheng-xiang-mu-xian-bie-cong-di-xing-du-qi-onboard-de-5-tiao-ying-gui-ze-501h
+- 发版前先别急着打 tag：/release 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/fa-ban-qian-xian-bie-ji-zhao-da-tagrelease-de-5-tiao-ying-gui-ze-43ih
 
 ## 反馈
 
