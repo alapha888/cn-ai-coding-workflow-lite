@@ -107,6 +107,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 报错先别猜：/debug 的 5 步排错法（完整版命令，平台版）：https://dev.to/alapha888/bao-cuo-xian-bie-cai-debug-de-5-bu-pai-cuo-fa-46b4
 - 函数超过 50 行自己都不想读了：/refactor 的 5 步安全重构（完整版命令，平台版）：https://dev.to/alapha888/han-shu-chao-guo-50-xing-zi-ji-du-bu-xiang-du-liao-refactor-de-5-bu-an-quan-zhong-gou-294a
 - 文档写完没人能跑起来，等于没写：/doc 的注释三原则与 README 五件套（完整版命令，平台版）：https://dev.to/alapha888/wen-dang-xie-wan-mei-ren-neng-pao-qi-lai-deng-yu-mei-xie-doc-de-zhu-shi-san-yuan-ze-yu-readme-wu-jian-tao-i5m
+- 需求一来就开写，写到一半才发现想错了：/plan 的 5 步拆解法（完整版命令，平台版）：https://dev.to/alapha888/xu-qiu-lai-jiu-kai-xie-xie-dao-ban-cai-fa-xian-xiang-cuo-liao-plan-de-5-bu-chai-jie-fa-4knh
 
 ## 反馈
 
