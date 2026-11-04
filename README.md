@@ -118,6 +118,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 10 条命令写完先别急着卖：初稿实测 3 条零修改、7 条各修 1 处靠猜点（完整版 D1 实测，平台版）：https://dev.to/alapha888/10-tiao-ming-ling-xie-wan-xian-bie-ji-zhao-mai-chu-gao-shi-ce-3-tiao-ling-xiu-gai-7-tiao-ge-xiu-1-chu-kao-cai-dian-2djm
 - 补测试先别急着写代码：/test 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/bu-ce-shi-xian-bie-ji-zhao-xie-dai-ma-test-de-5-tiao-ying-gui-ze-2g25
 - 评审意见别只写感想：/review 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/ping-shen-yi-jian-bie-zhi-xie-gan-xiang-review-de-5-tiao-ying-gui-ze-2a9p
+- 提交信息别再写 update 了：/commit 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/ti-jiao-xin-xi-bie-zai-xie-update-liao-commit-de-5-tiao-ying-gui-ze-21k0
 
 ## 反馈
 
