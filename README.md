@@ -125,6 +125,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 没有 Windows 真机，先用 Linux 上的 pwsh 把 install.ps1 跑通：3+3 文件、cli: 去除、旧版告警都正常（完整版安装脚本，平台版）：https://dev.to/alapha888/mei-you-windows-zhen-ji-xian-yong-linux-shang-de-pwsh-ba-installps1-pao-tong-33-wen-jian-cli-qu-chu-jiu-ban-gao-jing-du-zheng-chang-42f8
 - workflow 文件推不上去，先别改脚本：先查 token 有没有 workflow 权限（完整版 CI 权限，平台版）：https://dev.to/alapha888/workflow-wen-jian-tui-bu-shang-qu-xian-bie-gai-jiao-ben-xian-cha-token-you-mei-you-workflow-quan-xian-2e6d
 - 10 条命令不是凭空写的：先找了 3 个开源轮子，再决定原创什么（完整版选型，平台版）：https://dev.to/alapha888/10-tiao-ming-ling-bu-shi-ping-kong-xie-de-xian-zhao-liao-3-ge-kai-yuan-lun-zi-zai-jue-ding-yuan-chuang-shi-yao-2ahc
+- 完整版不走自动发货：付款后 12 小时内私信发链接，7 天内说一声就退（完整版交付，平台版）：https://dev.to/alapha888/wan-zheng-ban-bu-zou-zi-dong-fa-huo-fu-kuan-hou-12-xiao-shi-nei-si-xin-fa-lian-jie-7-tian-nei-shuo-sheng-jiu-tui-5f1g
 
 ## 反馈
 
