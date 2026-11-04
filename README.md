@@ -119,6 +119,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 补测试先别急着写代码：/test 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/bu-ce-shi-xian-bie-ji-zhao-xie-dai-ma-test-de-5-tiao-ying-gui-ze-2g25
 - 评审意见别只写感想：/review 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/ping-shen-yi-jian-bie-zhi-xie-gan-xiang-review-de-5-tiao-ying-gui-ze-2a9p
 - 提交信息别再写 update 了：/commit 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/ti-jiao-xin-xi-bie-zai-xie-update-liao-commit-de-5-tiao-ying-gui-ze-21k0
+- 无人值守跑工作流，确认门该停还是该走？v1.0 的分法：两处自动继续、两处永远等你（完整版非交互，平台版）：https://dev.to/alapha888/wu-ren-zhi-shou-pao-gong-zuo-liu-que-ren-men-gai-ting-huan-shi-gai-zou-v10-de-fen-fa-liang-chu-zi-dong-ji-xu-liang-chu-yong-yuan-deng-ni-4a7j
 
 ## 反馈
 
