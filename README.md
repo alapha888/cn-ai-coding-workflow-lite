@@ -132,6 +132,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 同一次导链改动，macOS job 上次 15 分钟拿不到 runner、这次 8 秒就拿到了（完整版 CI 后续，平台版）：https://dev.to/alapha888/tong-ci-dao-lian-gai-dong-macos-job-shang-ci-15-fen-zhong-na-bu-dao-runner-zhe-ci-8-miao-jiu-na-dao-liao-1i42
 - 标题全角 变了空格、占位符丢了尖括号：dev.to 发文前核对的 4 处（完整版发文核对，平台版）：https://dev.to/alapha888/biao-ti-quan-jiao-bian-liao-kong-ge-zhan-wei-fu-diu-liao-jian-gua-hao-devto-fa-wen-qian-he-dui-de-4-chu-ip
 - 发了 33 篇后复查，读者落在 9 篇上（完整版读者分布，平台版）：https://dev.to/alapha888/fa-liao-33-pian-hou-fu-cha-du-zhe-luo-zai-9-pian-shang-4laf
+- 每发一篇，就在 Lite README 里补一条导链（完整版导链，平台版）：https://dev.to/alapha888/mei-fa-pian-jiu-zai-lite-readme-li-bu-tiao-dao-lian-676
 
 ## 反馈
 
