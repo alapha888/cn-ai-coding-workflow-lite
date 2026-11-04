@@ -121,6 +121,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 提交信息别再写 update 了：/commit 的 5 条硬规则（Lite 版命令，平台版）：https://dev.to/alapha888/ti-jiao-xin-xi-bie-zai-xie-update-liao-commit-de-5-tiao-ying-gui-ze-21k0
 - 无人值守跑工作流，确认门该停还是该走？v1.0 的分法：两处自动继续、两处永远等你（完整版非交互，平台版）：https://dev.to/alapha888/wu-ren-zhi-shou-pao-gong-zuo-liu-que-ren-men-gai-ting-huan-shi-gai-zou-v10-de-fen-fa-liang-chu-zi-dong-ji-xu-liang-chu-yong-yuan-deng-ni-4a7j
 - description 里一个冒号，3 条命令直接搜不到：一次 YAML 解析失败的实测（frontmatter 解析，平台版）：https://dev.to/alapha888/description-li-ge-mou-hao-3-tiao-ming-ling-zhi-jie-sou-bu-dao-ci-yaml-jie-xi-shi-bai-de-shi-ce-4gji
+- CI 连挂两次，凶手是变量后面的中文：花括号规则（完整版安装脚本，平台版）：https://dev.to/alapha888/ci-lian-gua-liang-ci-xiong-shou-shi-bian-liang-hou-mian-de-zhong-wen-hua-gua-hao-gui-ze-2f5n
 
 ## 反馈
 
