@@ -130,6 +130,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 上架前先对齐的 4 件事：风险提示、FAQ、退款口径、安装包校验（完整版上架检查，平台版）：https://dev.to/alapha888/shang-jia-qian-xian-dui-qi-de-4-jian-shi-feng-xian-ti-shi-faq-tui-kuan-kou-jing-an-zhuang-bao-xiao-yan-2cgc
 - CI 红了先别改脚本：先看 job 是断言失败、还是根本没拿到 runner（完整版 CI 分流，平台版）：https://dev.to/alapha888/ci-hong-liao-xian-bie-gai-jiao-ben-xian-kan-job-shi-duan-yan-shi-bai-huan-shi-gen-ben-mei-na-dao-runner-252o
 - 同一次导链改动，macOS job 上次 15 分钟拿不到 runner、这次 8 秒就拿到了（完整版 CI 后续，平台版）：https://dev.to/alapha888/tong-ci-dao-lian-gai-dong-macos-job-shang-ci-15-fen-zhong-na-bu-dao-runner-zhe-ci-8-miao-jiu-na-dao-liao-1i42
+- 标题全角 变了空格、占位符丢了尖括号：dev.to 发文前核对的 4 处（完整版发文核对，平台版）：https://dev.to/alapha888/biao-ti-quan-jiao-bian-liao-kong-ge-zhan-wei-fu-diu-liao-jian-gua-hao-devto-fa-wen-qian-he-dui-de-4-chu-ip
 
 ## 反馈
 
