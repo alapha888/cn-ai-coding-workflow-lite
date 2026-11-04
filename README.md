@@ -127,6 +127,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 10 条命令不是凭空写的：先找了 3 个开源轮子，再决定原创什么（完整版选型，平台版）：https://dev.to/alapha888/10-tiao-ming-ling-bu-shi-ping-kong-xie-de-xian-zhao-liao-3-ge-kai-yuan-lun-zi-zai-jue-ding-yuan-chuang-shi-yao-2ahc
 - 完整版不走自动发货：付款后 12 小时内私信发链接，7 天内说一声就退（完整版交付，平台版）：https://dev.to/alapha888/wan-zheng-ban-bu-zou-zi-dong-fa-huo-fu-kuan-hou-12-xiao-shi-nei-si-xin-fa-lian-jie-7-tian-nei-shuo-sheng-jiu-tui-5f1g
 - 10 条命令从初稿到上架只用了一天：D1 到 D5 的时间线（完整版时间线，平台版）：https://dev.to/alapha888/10-tiao-ming-ling-cong-chu-gao-dao-shang-jia-zhi-yong-liao-tian-d1-dao-d5-de-shi-jian-xian-100l
+- 上架前先对齐的 4 件事：风险提示、FAQ、退款口径、安装包校验（完整版上架检查，平台版）：https://dev.to/alapha888/shang-jia-qian-xian-dui-qi-de-4-jian-shi-feng-xian-ti-shi-faq-tui-kuan-kou-jing-an-zhuang-bao-xiao-yan-2cgc
 
 ## 反馈
 
