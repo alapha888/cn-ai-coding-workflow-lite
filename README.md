@@ -115,6 +115,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 一个 todo-cli 从 0 到提交：/plan→/test→/review→/commit 真实走了一遍，修掉 4 个问题（完整版演示，平台版）：https://dev.to/alapha888/ge-todo-cli-cong-0-dao-ti-jiao-plan-test-review-commit-zhen-shi-zou-liao-bian-xiu-diao-4-ge-wen-ti-190e
 - 同一套命令，Claude 和 Codex 都能用吗？双兼容实测：10/10 通过，只改 2 处（完整版双兼容，平台版）：https://dev.to/alapha888/tong-tao-ming-ling-claude-he-codex-du-neng-yong-ma-shuang-jian-rong-shi-ce-1010-tong-guo-zhi-gai-2-chu-10kp
 - 装完命令调不出来，先别怪命令：安装脚本三系统实测里修掉的 3 个坑（完整版安装脚本，平台版）：https://dev.to/alapha888/zhuang-wan-ming-ling-diao-bu-chu-lai-xian-bie-guai-ming-ling-an-zhuang-jiao-ben-san-xi-tong-shi-ce-li-xiu-diao-de-3-ge-keng-46c1
+- 10 条命令写完先别急着卖：初稿实测 3 条零修改、7 条各修 1 处靠猜点（完整版 D1 实测，平台版）：https://dev.to/alapha888/10-tiao-ming-ling-xie-wan-xian-bie-ji-zhao-mai-chu-gao-shi-ce-3-tiao-ling-xiu-gai-7-tiao-ge-xiu-1-chu-kao-cai-dian-2djm
 
 ## 反馈
 
