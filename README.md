@@ -113,6 +113,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - CLAUDE.md 别从空白写起：三套模板按项目类型选（完整版模板，平台版）：https://dev.to/alapha888/claudemd-bie-cong-kong-bai-xie-qi-san-tao-mo-ban-an-xiang-mu-lei-xing-xuan-586o
 - 10 条命令记不住？一张速查表 5 条组合链路（完整版速查表，平台版；标题中全角加号经平台规范化为空格）：https://dev.to/alapha888/10-tiao-ming-ling-ji-bu-zhu-zhang-su-cha-biao-5-tiao-zu-he-lian-lu-4k0n
 - 一个 todo-cli 从 0 到提交：/plan→/test→/review→/commit 真实走了一遍，修掉 4 个问题（完整版演示，平台版）：https://dev.to/alapha888/ge-todo-cli-cong-0-dao-ti-jiao-plan-test-review-commit-zhen-shi-zou-liao-bian-xiu-diao-4-ge-wen-ti-190e
+- 同一套命令，Claude 和 Codex 都能用吗？双兼容实测：10/10 通过，只改 2 处（完整版双兼容，平台版）：https://dev.to/alapha888/tong-tao-ming-ling-claude-he-codex-du-neng-yong-ma-shuang-jian-rong-shi-ce-1010-tong-guo-zhi-gai-2-chu-10kp
 
 ## 反馈
 
