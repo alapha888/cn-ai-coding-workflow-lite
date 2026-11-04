@@ -136,3 +136,4 @@ dev.to 文章（同一内容，平台版，非新实测）：
 ---
 
 *MIT License · 3 commands / 双 CLI 实测通过 · 完整版 ¥9.90 起*
+- 没有 Windows 真机，先用 Linux 上的 pwsh 把 install.ps1 跑通：3+3 文件、cli: 去除、旧版告警都正常（完整版安装脚本，平台版）：https://dev.to/alapha888/mei-you-windows-zhen-ji-xian-yong-linux-shang-de-pwsh-ba-installps1-pao-tong-33-wen-jian-cli-qu-chu-jiu-ban-gao-jing-du-zheng-chang-42f8
