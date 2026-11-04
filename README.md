@@ -111,6 +111,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 接手一个陌生项目，先别从第一行读起：/onboard 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/jie-shou-ge-mo-sheng-xiang-mu-xian-bie-cong-di-xing-du-qi-onboard-de-5-tiao-ying-gui-ze-501h
 - 发版前先别急着打 tag：/release 的 5 条硬规则（完整版命令，平台版）：https://dev.to/alapha888/fa-ban-qian-xian-bie-ji-zhao-da-tagrelease-de-5-tiao-ying-gui-ze-43ih
 - CLAUDE.md 别从空白写起：三套模板按项目类型选（完整版模板，平台版）：https://dev.to/alapha888/claudemd-bie-cong-kong-bai-xie-qi-san-tao-mo-ban-an-xiang-mu-lei-xing-xuan-586o
+- 10 条命令记不住？一张速查表 5 条组合链路（完整版速查表，平台版；标题中全角加号经平台规范化为空格）：https://dev.to/alapha888/10-tiao-ming-ling-ji-bu-zhu-zhang-su-cha-biao-5-tiao-zu-he-lian-lu-4k0n
 
 ## 反馈
 
