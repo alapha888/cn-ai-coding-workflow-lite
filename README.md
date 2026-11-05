@@ -138,6 +138,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 个人授权到底管什么：自己的设备随便装，二次分发不行（完整版个人授权，平台版）：https://dev.to/alapha888/ge-ren-shou-quan-dao-di-guan-shi-yao-zi-ji-de-she-bei-sui-bian-zhuang-er-ci-fen-fa-bu-xing-4ga8
 - 38 篇下来，每篇的固定格式就这几样（完整版固定格式，平台版）：https://dev.to/alapha888/38-pian-xia-lai-mei-pian-de-gu-ding-ge-shi-jiu-zhe-ji-yang-51a9
 - 装完先别急着调命令：两条 ls 先看装对了没有（完整版安装验证，平台版）：https://dev.to/alapha888/zhuang-wan-xian-bie-ji-zhao-diao-ming-ling-liang-tiao-ls-xian-kan-zhuang-dui-liao-mei-you-2mf9
+- 有问题找谁：Lite 走 Issues，完整版走商品页私信（完整版反馈渠道，平台版）：https://dev.to/alapha888/you-wen-ti-zhao-shui-lite-zou-issueswan-zheng-ban-zou-shang-pin-ye-si-xin-3ho3
 
 ## 反馈
 
