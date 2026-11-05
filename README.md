@@ -141,6 +141,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 有问题找谁：Lite 走 Issues，完整版走商品页私信（完整版反馈渠道，平台版）：https://dev.to/alapha888/you-wen-ti-zhao-shui-lite-zou-issueswan-zheng-ban-zou-shang-pin-ye-si-xin-3ho3
 - 买断之后怎么更新：小版本免费私信推，大版本另行定价（完整版更新政策，平台版）：https://dev.to/alapha888/mai-duan-zhi-hou-zen-yao-geng-xin-xiao-ban-ben-mian-fei-si-xin-tui-da-ban-ben-ling-xing-ding-jie-453o
 - 从下单到能用：买完整版之后实际会发生什么（完整版购买流程，平台版）：https://dev.to/alapha888/cong-xia-dan-dao-neng-yong-mai-wan-zheng-ban-zhi-hou-shi-ji-hui-fa-sheng-shi-yao-p6
+- 先写一个带 3 个 bug 的小程序，再测命令：测试床是怎么搭的（完整版测试床，平台版）：https://dev.to/alapha888/xian-xie-ge-dai-3-ge-bug-de-xiao-cheng-xu-zai-ce-ming-ling-ce-shi-chuang-shi-zen-yao-da-de-59hl
 
 ## 反馈
 
