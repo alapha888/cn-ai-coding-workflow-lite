@@ -134,6 +134,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 发了 33 篇后复查，读者落在 9 篇上（完整版读者分布，平台版）：https://dev.to/alapha888/fa-liao-33-pian-hou-fu-cha-du-zhe-luo-zai-9-pian-shang-4laf
 - 每发一篇，就在 Lite README 里补一条导链（完整版导链，平台版）：https://dev.to/alapha888/mei-fa-pian-jiu-zai-lite-readme-li-bu-tiao-dao-lian-676
 - 看 dev.to 单篇数据时，我只认三条口径（完整版复查口径，平台版）：https://dev.to/alapha888/kan-devto-dan-pian-shu-ju-shi-wo-zhi-ren-san-tiao-kou-jing-1616
+- 本地作者设对了，推送还是 403：先看 gh 当前活动账号是谁（完整版 gh 身份切换，平台版）：https://dev.to/alapha888/ben-di-zuo-zhe-she-dui-liao-tui-song-huan-shi-403xian-kan-gh-dang-qian-huo-dong-zhang-hao-shi-shui-40gf
 
 ## 反馈
 
