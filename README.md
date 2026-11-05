@@ -144,6 +144,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 先写一个带 3 个 bug 的小程序，再测命令：测试床是怎么搭的（完整版测试床，平台版）：https://dev.to/alapha888/xian-xie-ge-dai-3-ge-bug-de-xiao-cheng-xu-zai-ce-ming-ling-ce-shi-chuang-shi-zen-yao-da-de-59hl
 - Lite 仓只有 8 个文件：3 条命令、2 个安装脚本、1 个 CI、1 份协议、1 份 README（完整版仓内结构，平台版）：https://dev.to/alapha888/lite-cang-zhi-you-8-ge-wen-jian-3-tiao-ming-ling-2-ge-an-zhuang-jiao-ben-1-ge-ci-1-fen-xie-yi-1-fen-readme-5eg9
 - 英文版上了三处免费目录之后：收录有了，安装数还是自测的 5 次（完整版目录收录，平台版）：https://dev.to/alapha888/ying-wen-ban-shang-liao-san-chu-mian-fei-mu-lu-zhi-hou-shou-lu-you-liao-an-zhuang-shu-huan-shi-zi-ce-de-5-ci-143a
+- 只认三个数：安装数 12、stars 还是 1、合并的 PR 还是 2 个（完整版三个数复查，平台版）：https://dev.to/alapha888/zhi-ren-san-ge-shu-an-zhuang-shu-12-stars-huan-shi-1-he-bing-de-pr-huan-shi-2-ge-13b
 
 ## 反馈
 
