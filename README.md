@@ -137,6 +137,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 本地作者设对了，推送还是 403：先看 gh 当前活动账号是谁（完整版 gh 身份切换，平台版）：https://dev.to/alapha888/ben-di-zuo-zhe-she-dui-liao-tui-song-huan-shi-403xian-kan-gh-dang-qian-huo-dong-zhang-hao-shi-shui-40gf
 - 个人授权到底管什么：自己的设备随便装，二次分发不行（完整版个人授权，平台版）：https://dev.to/alapha888/ge-ren-shou-quan-dao-di-guan-shi-yao-zi-ji-de-she-bei-sui-bian-zhuang-er-ci-fen-fa-bu-xing-4ga8
 - 38 篇下来，每篇的固定格式就这几样（完整版固定格式，平台版）：https://dev.to/alapha888/38-pian-xia-lai-mei-pian-de-gu-ding-ge-shi-jiu-zhe-ji-yang-51a9
+- 装完先别急着调命令：两条 ls 先看装对了没有（完整版安装验证，平台版）：https://dev.to/alapha888/zhuang-wan-xian-bie-ji-zhao-diao-ming-ling-liang-tiao-ls-xian-kan-zhuang-dui-liao-mei-you-2mf9
 
 ## 反馈
 
