@@ -136,6 +136,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 看 dev.to 单篇数据时，我只认三条口径（完整版复查口径，平台版）：https://dev.to/alapha888/kan-devto-dan-pian-shu-ju-shi-wo-zhi-ren-san-tiao-kou-jing-1616
 - 本地作者设对了，推送还是 403：先看 gh 当前活动账号是谁（完整版 gh 身份切换，平台版）：https://dev.to/alapha888/ben-di-zuo-zhe-she-dui-liao-tui-song-huan-shi-403xian-kan-gh-dang-qian-huo-dong-zhang-hao-shi-shui-40gf
 - 个人授权到底管什么：自己的设备随便装，二次分发不行（完整版个人授权，平台版）：https://dev.to/alapha888/ge-ren-shou-quan-dao-di-guan-shi-yao-zi-ji-de-she-bei-sui-bian-zhuang-er-ci-fen-fa-bu-xing-4ga8
+- 38 篇下来，每篇的固定格式就这几样（完整版固定格式，平台版）：https://dev.to/alapha888/38-pian-xia-lai-mei-pian-de-gu-ding-ge-shi-jiu-zhe-ji-yang-51a9
 
 ## 反馈
 
