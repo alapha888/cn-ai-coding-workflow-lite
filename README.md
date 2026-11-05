@@ -142,6 +142,7 @@ dev.to 文章（同一内容，平台版，非新实测）：
 - 买断之后怎么更新：小版本免费私信推，大版本另行定价（完整版更新政策，平台版）：https://dev.to/alapha888/mai-duan-zhi-hou-zen-yao-geng-xin-xiao-ban-ben-mian-fei-si-xin-tui-da-ban-ben-ling-xing-ding-jie-453o
 - 从下单到能用：买完整版之后实际会发生什么（完整版购买流程，平台版）：https://dev.to/alapha888/cong-xia-dan-dao-neng-yong-mai-wan-zheng-ban-zhi-hou-shi-ji-hui-fa-sheng-shi-yao-p6
 - 先写一个带 3 个 bug 的小程序，再测命令：测试床是怎么搭的（完整版测试床，平台版）：https://dev.to/alapha888/xian-xie-ge-dai-3-ge-bug-de-xiao-cheng-xu-zai-ce-ming-ling-ce-shi-chuang-shi-zen-yao-da-de-59hl
+- Lite 仓只有 8 个文件：3 条命令、2 个安装脚本、1 个 CI、1 份协议、1 份 README（完整版仓内结构，平台版）：https://dev.to/alapha888/lite-cang-zhi-you-8-ge-wen-jian-3-tiao-ming-ling-2-ge-an-zhuang-jiao-ben-1-ge-ci-1-fen-xie-yi-1-fen-readme-5eg9
 
 ## 反馈
 
